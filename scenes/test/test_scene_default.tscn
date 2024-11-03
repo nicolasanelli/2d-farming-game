@@ -2,7 +2,7 @@
 
 [ext_resource type="TileSet" uid="uid://d0hmhod5g43nb" path="res://tilesets/game_tile_set.tres" id="1_u8f8g"]
 
-[node name="TestSceneTilemap" type="Node2D"]
+[node name="TestSceneDefault" type="Node2D"]
 
 [node name="GameTiileMap" type="Node2D" parent="."]
 
